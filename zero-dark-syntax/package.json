@@ -1,0 +1,16 @@
+{
+  "name": "zero-dark-syntax",
+  "theme": "syntax",
+  "version": "1.8.2",
+  "description": "Atom zero dark syntax theme",
+  "keywords": [
+    "dark",
+    "blue",
+    "syntax"
+  ],
+  "repository": "https://github.com/MJ12358/zero-dark-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
